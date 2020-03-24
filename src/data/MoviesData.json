@@ -1,0 +1,77 @@
+{
+  "Amazon Original movies": {
+    "movies": [
+      {
+        "Id": 1, 
+        "title": "The Wall",
+        "description": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f91a2a9c9b951c0cc645f50a7fdae179e5aa35a80578d17bace41579ae507b76._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/MyCuUr2_hmA"
+      },
+      {
+        "Id": 2, 
+        "title": "The Report",
+        "description": "Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/THE_REPORT/en_US/COVER_ART/NO_SNIPES/CAPITOL._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/ul5GFfMAvtg"
+      },
+      {
+        "Id": 3, 
+        "title": "The Big Sick",
+        "description": "Healthcare professionals, government officials and everyday people find themselves in the midst of a pandemic as the CDC works to find a cure.",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0de77196b1b5a57799528d400d1f243991359f46d667315e3fbf8def18f345a0._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/PJmpSMRQhhs"
+      }
+    ]
+  },
+  "Comedy": {
+    "movies": [
+      {
+        "Id": 4, 
+        "title": "Hindi Medium",
+        "description": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate, Hawk, to take down criminals.",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/tseries-Hindi_Medium_2017-Full-Image_GalleryCover-rw-RW-1498862589209._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/GjkFr48jk68"
+      },
+      {
+        "Id": 5, 
+        "title": "Catch Me If You Can",
+        "description": "Frank didn't go to flight school...Frank didn't go to medical school...Frank didn't go to law school...because Frank's still in high school! Inspired by the true story of a brilliant young master of deception and the FBI agent hot on his trail. Directed by Steven Spielberg and starring Leonardo DiCaprio and Tom Hanks. Frank W. Abagnale, Jr. successfully passes himself off as a pilot, a lawyer ",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/419483f2dbb8561f2d3d5e338e4ad650535324551b6e7a9f95ae4be4820bd623._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/71rDQ7z4eFg"
+      },
+      {
+        "Id": 6, 
+        "title": "Eurotrip",
+        "description": "Europe will never be the same again after Scotty Thomas and his buddies take off for the express to excess! They're hooking up with hot",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/92e9b534dd0af1f0e1d22631e0c3bccdf7da35e56dbcaf9844dcc33b2826a817._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/-_Eu0X3B6OM"
+      }
+    ]
+  },
+  "Romantic": {
+    "movies": [
+      {
+        "Id": 7, 
+        "title": "Andaz Apna Apna",
+        "description": "Andaz Apna Apna Is A Hit Bollywood Slapstick Comedy Movie, Directed By Rajkumar Santoshi, Starring Aamir Khan And Salman Khan In The Lead Roles. It Was Nominated For Four Filmfare Awards. Amar And Prem, Who Belong To Middle-class Families, Compete To Win Over Raveena, A Multimillionaire's Daughter. Along The Way, They Run Into A Local Gangster, Teja, Who Turns Their Life Upside Down.",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2bb59354f85d9accc7179c5e2ef032ed57e3b89d549147183398775b39c091cb._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/fd_w7Qw8biU"
+      },
+      {
+        "Id": 8, 
+        "title": "3 Idiots",
+        "description": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate, Hawk, to take down criminals.",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/242482dbaf461c829357623a5bb22d6642c36341f78a034b5f7e3f1681869292._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/K0eDlFX9GMc"
+      },
+      {
+        "Id": 9, 
+        "title": "What's Your Number?",
+        "description": "A woman looks back at the past twenty men she's had relationships with in her life and wonders if one of them might be her one true ",
+        "thumbUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/7eb270b2fd83d90a0a5bc9a0a7242b12d0168c4fbb6299f3ea4ef062c9341ceb._UR1920,1080_RI_SX356_FMwebp_.jpg",
+        "videoUrl" : "https://www.youtube.com/embed/bgkxGrsX-A4"
+      }
+    ]
+  }
+}
